@@ -97,3 +97,10 @@ form .subscribe:hover {
     cursor: pointer;
 
 }
+
+.indicates-required{
+    color: black;
+    
+    padding-top: 10px;
+    font-size: 20px;
+}
