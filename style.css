@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body{
+    background-color: #242D3B;
+    font-family: 'Roboto',sans-serif;
+
+}
+
+.conttainer{
+    max-width: 660px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header{
+    background: #000 url(./images/bg_img.jpg);
+    text-align: center;
+    padding: 150px 0;
+    color: #fff;
+    border-bottom: 2px solid #89fcf3;
+    box-shadow: 0 0 10px #89fcf3;
+}
+
+header h1 {
+    color: #89fcf3;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 7em;
+    line-height: 0.8em;
+    text-align: left;
+    transform: skewY(-5deg);
+    padding-bottom: 60px;
+}
+
+header h1 span {
+    display: block;
+    text-align: right;
+}
+
+header p {
+    color: #CCCDCF;
+    font-size: 18px;
+    max-width: 540px;
+    margin: 0 auto;
+}
